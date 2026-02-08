@@ -1,6 +1,6 @@
 # Privacy Policy for Jibify
 
-**Last Updated: January 30, 2026**
+**Last Updated: February 8, 2026**
 
 This Privacy Policy describes how Jibify ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
@@ -15,10 +15,15 @@ Jibify is designed to be a privacy-first application. The following data is coll
 **We do not transmit your financial transactions or personal profile data to any external server.** Your financial data resides solely on your device (and any personal backups you manually export).
 
 ### B. Usage & Diagnostics (Third Party Services)
-We use third-party services to improve the stability and performance of the App. These services may collect:
+We use third-party services to improve the stability and performance of the App. 
+
+**Google Analytics for Firebase**
+We use Google Analytics for Firebase to collect information about how you use our App. This usage data may include information such as your device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data. We use this information to analyze usage patterns and improve the App.
+
+These services may collect:
 - **Device Information**: Model, OS version, and unique device identifiers.
 - **Crash Logs**: Information about app crashes to help us fix bugs (via Firebase Crashlytics).
-- **Usage Data**: Anonymous interaction data to understand how features are used (via Google Analytics for Firebase).
+- **Usage Data**: Anonymous interaction data to understand how features are used.
 
 ### C. Advertising (AdMob)
 We use Google AdMob to serve advertisements in the app. AdMob may collect:

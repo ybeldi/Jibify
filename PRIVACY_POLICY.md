@@ -78,6 +78,13 @@ You have the right to:
 ## 8. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
-## 9. Contact Us
+## 9. GDPR Compliance (EEA & UK Users)
+If you are located in the European Economic Area (EEA) or the United Kingdom (UK), you have specific rights regarding your personal data under the General Data Protection Regulation (GDPR).
+
+- **Consent Management**: We use a Consent Management Platform (CMP) certified by Google to gather your consent for data collection and advertising.
+- **Right to Withdraw Consent**: You can withdraw your consent at any time within the app settings by clicking on "Privacy Settings".
+- **Data Minimization**: We only collect data that is necessary for the functionality of the App and for compliance with legal obligations.
+
+## 10. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
-- Email: yassinebeldi@gmail.com
+- **Email**: yassinebeldi@gmail.com

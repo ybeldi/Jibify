@@ -60,6 +60,13 @@ Your financial transaction data remains local and is **NEVER** shared with any t
 - **Analytics Data**: Retained in accordance with Firebase's data retention policies.
 - **Advertising Data**: Retained in accordance with AdMob's data retention policies.
 
+## 4.1 Google Play Data Safety
+In accordance with Google Play's Data Safety requirements, we disclose the following about data collected by Jibify:
+- **Financial Information & Personal Data:** We **do not** collect, transmit, or share your financial data, budgets, transaction history, or personal profile names. This data is strictly local.
+- **Diagnostics & Crash Logs:** We collect crash logs and diagnostic data via Firebase Crashlytics to improve app stability. This data is **collected** and is **required** for the app to function properly.
+- **Device & Other IDs:** We collect and share device identifiers via Google AdMob and Firebase Analytics to serve personalized advertisements and track anonymous usage.
+- **Data Deletion:** Because all user-generated financial/personal data remains locally on your device, deleting the app will permanently delete this data. We do not have servers storing your data, thus we cannot provide a mechanism to delete data on our end.
+
 ## 5. Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
 - **App Lock**: Jibify offers Biometric and Password locks to prevent unauthorized local access to your app.
